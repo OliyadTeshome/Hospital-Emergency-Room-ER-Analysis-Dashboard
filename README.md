@@ -73,3 +73,4 @@ To enhance operational efficiency and provide actionable insights into emergency
 -   **Objective**: Summarize the findings from all dashboards to provide clear and actionable insights for stakeholders.
 -   **Charts to Develop**:
     -   Descriptive analysis of each metric and visualization, including patterns, anomalies, and actionable recommendations to optimize emergency room operations and patient care.
+![Dashboard](https://github.com/user-attachments/assets/ec468302-b808-45e3-97b8-22b4ecf94158)
