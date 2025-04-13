@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Power-BI-Dashboard
+# Hospital Emergency Room (ER) Analysis Dashboard
 
 ## Steps in Project
 -   Requirement Gathering/ Business Requirements
