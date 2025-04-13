@@ -1,4 +1,5 @@
 # Hospital Emergency Room (ER) Analysis Dashboard
+Developed a Power BI Hospital ER Dashboard to track KPIs like patient wait times, satisfaction scores, and referral trends.  The solution provides actionable insights for optimizing ER operations and patient care.
 
 ## Steps in Project
 -   Requirement Gathering/ Business Requirements
